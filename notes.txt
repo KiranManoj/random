@@ -4,3 +4,6 @@ Key Concepts:
 3. Local Repo - The saved versions (commits)
 4. Remote Repo - The Github version.
 
+Commands to master:
+1. git status - shows what's changed and what's staged.
+2. git diff - shows changes between working dir and staging area.
