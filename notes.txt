@@ -7,3 +7,7 @@ Key Concepts:
 Commands to master:
 1. git status - shows what's changed and what's staged.
 2. git diff - shows changes between working dir and staging area.
+3. git diff --staged - shows changes that are staged but not committed.
+4. git restore <file> - undo changes in working directory.
+5. git reset <file> - unstage a file.
+6. git rm <file> - deletes file and stages that deletion.
