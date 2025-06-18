@@ -1,0 +1,6 @@
+Key Concepts: 
+1. Working Directory - Your actual files on disk
+2. Staging Area(index) - A list of files to include in the next commit.
+3. Local Repo - The saved versions (commits)
+4. Remote Repo - The Github version.
+
