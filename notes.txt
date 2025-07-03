@@ -17,3 +17,6 @@ Branch - a copy of your code to work on a feature without touching main.
 Merge - Combining a branch into another.
 Fast-forward merge - Direct linear move(no diverged history).
 Recursive merge - Git auto-merges two histories with a new  merge commit.
+
+
+New branch got created.
