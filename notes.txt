@@ -29,3 +29,6 @@ git merge <branch> - Merge into current
 git branch -d <branch> - delete branch
 
 
+
+
+New branch got created.
