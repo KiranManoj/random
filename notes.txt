@@ -11,3 +11,9 @@ Commands to master:
 4. git restore <file> - undo changes in working directory.
 5. git reset <file> - unstage a file.
 6. git rm <file> - deletes file and stages that deletion.
+
+day-4 of Git Learning
+Branch - a copy of your code to work on a feature without touching main.
+Merge - Combining a branch into another.
+Fast-forward merge - Direct linear move(no diverged history).
+Recursive merge - Git auto-merges two histories with a new  merge commit.
