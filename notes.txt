@@ -12,8 +12,20 @@ Commands to master:
 5. git reset <file> - unstage a file.
 6. git rm <file> - deletes file and stages that deletion.
 
-day-4 of Git Learning
+Day-4 Key concepts - of Git Learning
+
 Branch - a copy of your code to work on a feature without touching main.
 Merge - Combining a branch into another.
 Fast-forward merge - Direct linear move(no diverged history).
 Recursive merge - Git auto-merges two histories with a new  merge commit.
+
+Key Commands - 
+git branch- show branches
+git branch <name> - create new branch
+git checkout <name> - Switch branch (older style)
+git switch <name> - switch branch (new Style)
+git switch -c <name> - Create + Switch
+git merge <branch> - Merge into current
+git branch -d <branch> - delete branch
+
+
