@@ -1,0 +1,2 @@
+This is a file in branch A 
+This is for merging and resolve practice session.
