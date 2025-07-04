@@ -31,3 +31,9 @@ git branch -d <branch> - delete branch
 
 New branch got created.
 
+
+
+New branch got created.
+
+Two new branches were created. Lets see how they are gonna react.
+
