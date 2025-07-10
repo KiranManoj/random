@@ -31,9 +31,15 @@ git branch -d <branch> - delete branch
 
 New branch got created.
 
-
-
 New branch got created.
 
 Two new branches were created. Lets see how they are gonna react.
 
+Day 7- Rewriting history
+
+(amend, rebase, cherry-pick)
+Goals: Fix mistakes in commits, cleanup messy commit history, Apply commits from one branch to another.
+
+1. git commit --amend
+    is used when you forgot to include a file.
+    Made a typo in your last commit message.
